@@ -23,7 +23,7 @@ it offers a dynamic and easy-to-use interface.
   
 ## Overview
 
-[![Watch the video](https://github.com/ivaZaiets/Plan-Me/raw/master/image.png)](https://github.com/ivaZaiets/Plan-Me/blob/master/PlanMe_todo_app.mp4)
+https://github.com/ivaZaiets/Plan-Me/assets/142230575/d1c13c22-6721-4703-9a5d-eb8afa9811ee
 
 ## Links
 
