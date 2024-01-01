@@ -3,7 +3,7 @@
 
 Make Plan Me your go-to todo app, expertly designed for effortless daily planning.  
 
-Plan Me was developed using React, TypeScript, and SCSS,  
+Plan Me was developed using React, TypeScript and SCSS,  
 
 it offers a dynamic and easy-to-use interface.
 
